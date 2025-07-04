@@ -33,8 +33,8 @@ git commit -m "Initial commit: F1 Predict Pro - ML-based F1 prediction system"
 # 5. Main Branch erstellen
 git branch -M main
 
-# 6. Remote Repository hinzufügen (ERSETZEN SIE 'IHR_USERNAME')
-git remote add origin https://github.com/IHR_USERNAME/f1predictpro.git
+# 6. Remote Repository hinzufügen
+git remote add origin https://github.com/marcgoebel/f1predictpro.git
 
 # 7. Code zu GitHub pushen
 git push -u origin main
@@ -42,7 +42,7 @@ git push -u origin main
 
 ### 3. Wichtige Hinweise
 
-- **Ersetzen Sie `IHR_USERNAME`** in Schritt 6 durch Ihren tatsächlichen GitHub-Benutzernamen
+- Der Username `marcgoebel` ist bereits korrekt in der URL eingetragen
 - Falls Sie nach Anmeldedaten gefragt werden, verwenden Sie:
   - **Username**: Ihr GitHub-Benutzername
   - **Password**: Ihr Personal Access Token (NICHT Ihr GitHub-Passwort)
@@ -66,7 +66,7 @@ git push -u origin main
 ### 5. Nach erfolgreichem Push
 
 Ihr Repository sollte jetzt verfügbar sein unter:
-`https://github.com/IHR_USERNAME/f1predictpro`
+`https://github.com/marcgoebel/f1predictpro`
 
 ### 6. Zukünftige Updates
 
