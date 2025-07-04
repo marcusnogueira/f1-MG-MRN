@@ -1,0 +1,20 @@
+{
+  "api_keys": {
+    "ergast_api": "https://ergast.com/api/f1",
+    "odds_api_key": "your_odds_api_key_here"
+  },
+  "monitoring": {
+    "check_interval_hours": 6,
+    "odds_fetch_days_before": 7,
+    "prediction_days_before": 3
+  },
+  "notifications": {
+    "enabled": true,
+    "email": "your_email@example.com"
+  },
+  "file_paths": {
+    "schedule_cache": "data/cache/f1_schedule.json",
+    "odds_data": "data/live/current_odds.json",
+    "betting_recommendations": "data/live/betting_recommendations.csv"
+  }
+}

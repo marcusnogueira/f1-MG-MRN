@@ -1,0 +1,425 @@
+year,race,driver,predicted_position,probability,final_position,abs_error
+2023,Abu Dhabi Grand Prix,ALB,14,21.44,11.0,3.0
+2023,Abu Dhabi Grand Prix,ALO,3,34.91,4.0,1.0
+2023,Abu Dhabi Grand Prix,BOT,19,21.4,7.0,12.0
+2023,Abu Dhabi Grand Prix,GAS,7,14.92,5.0,2.0
+2023,Abu Dhabi Grand Prix,HAM,4,31.3,6.0,2.0
+2023,Abu Dhabi Grand Prix,HUL,15,24.91,13.0,2.0
+2023,Abu Dhabi Grand Prix,LEC,3,41.94,1.0,2.0
+2023,Abu Dhabi Grand Prix,MAG,15,15.98,17.0,2.0
+2023,Abu Dhabi Grand Prix,NOR,5,23.25,3.0,2.0
+2023,Abu Dhabi Grand Prix,OCO,8,18.95,8.0,0.0
+2023,Abu Dhabi Grand Prix,PER,14,16.99,2.0,12.0
+2023,Abu Dhabi Grand Prix,PIA,6,24.87,3.0,3.0
+2023,Abu Dhabi Grand Prix,RIC,11,19.52,8.0,3.0
+2023,Abu Dhabi Grand Prix,RUS,4,57.38,3.0,1.0
+2023,Abu Dhabi Grand Prix,SAI,11,35.26,3.0,8.0
+2023,Abu Dhabi Grand Prix,SAR,15,24.08,14.0,1.0
+2023,Abu Dhabi Grand Prix,STR,10,27.88,2.0,8.0
+2023,Abu Dhabi Grand Prix,TSU,8,23.11,1.0,7.0
+2023,Abu Dhabi Grand Prix,VER,1,94.18,1.0,0.0
+2023,Abu Dhabi Grand Prix,ZHO,11,17.37,14.0,3.0
+2023,Australian Grand Prix,ALB,6,53.08,6.0,0.0
+2023,Australian Grand Prix,ALO,9,20.86,3.0,6.0
+2023,Australian Grand Prix,BOT,14,25.48,12.0,2.0
+2023,Australian Grand Prix,DEV,14,17.67,12.0,2.0
+2023,Australian Grand Prix,GAS,5,27.5,4.0,1.0
+2023,Australian Grand Prix,HAM,2,41.14,1.0,1.0
+2023,Australian Grand Prix,HUL,9,20.36,6.0,3.0
+2023,Australian Grand Prix,MAG,12,19.77,12.0,0.0
+2023,Australian Grand Prix,NOR,8,30.16,7.0,1.0
+2023,Australian Grand Prix,OCO,10,31.02,10.0,0.0
+2023,Australian Grand Prix,PER,7,20.32,6.0,1.0
+2023,Australian Grand Prix,PIA,8,26.41,9.0,1.0
+2023,Australian Grand Prix,RUS,3,17.06,1.0,2.0
+2023,Australian Grand Prix,SAI,4,47.09,4.0,0.0
+2023,Australian Grand Prix,SAR,16,25.81,15.0,1.0
+2023,Australian Grand Prix,STR,6,32.78,4.0,2.0
+2023,Australian Grand Prix,TSU,14,28.36,8.0,6.0
+2023,Australian Grand Prix,VER,1,88.61,1.0,0.0
+2023,Australian Grand Prix,ZHO,13,23.33,10.0,3.0
+2023,Austrian Grand Prix,ALB,3,21.31,9.0,6.0
+2023,Austrian Grand Prix,ALO,6,52.54,4.0,2.0
+2023,Austrian Grand Prix,BOT,16,31.91,10.0,6.0
+2023,Austrian Grand Prix,DEV,15,31.91,15.0,0.0
+2023,Austrian Grand Prix,GAS,9,44.59,6.0,3.0
+2023,Austrian Grand Prix,HAM,8,25.07,4.0,4.0
+2023,Austrian Grand Prix,HUL,8,56.62,7.0,1.0
+2023,Austrian Grand Prix,LEC,2,59.28,1.0,1.0
+2023,Austrian Grand Prix,MAG,19,34.58,8.0,11.0
+2023,Austrian Grand Prix,NOR,9,23.2,4.0,5.0
+2023,Austrian Grand Prix,OCO,12,34.03,11.0,1.0
+2023,Austrian Grand Prix,PER,3,46.07,2.0,1.0
+2023,Austrian Grand Prix,PIA,18,42.38,13.0,5.0
+2023,Austrian Grand Prix,RUS,6,23.15,8.0,2.0
+2023,Austrian Grand Prix,SAI,4,58.74,2.0,2.0
+2023,Austrian Grand Prix,SAR,13,37.72,9.0,4.0
+2023,Austrian Grand Prix,STR,10,60.28,6.0,4.0
+2023,Austrian Grand Prix,TSU,17,34.38,8.0,9.0
+2023,Austrian Grand Prix,VER,1,90.06,1.0,0.0
+2023,Austrian Grand Prix,ZHO,14,31.62,13.0,1.0
+2023,Azerbaijan Grand Prix,ALB,12,34.59,12.0,0.0
+2023,Azerbaijan Grand Prix,ALO,4,45.32,4.0,0.0
+2023,Azerbaijan Grand Prix,BOT,14,21.3,17.0,3.0
+2023,Azerbaijan Grand Prix,DEV,16,26.75,12.0,4.0
+2023,Azerbaijan Grand Prix,GAS,14,32.11,14.0,0.0
+2023,Azerbaijan Grand Prix,HAM,5,25.29,5.0,0.0
+2023,Azerbaijan Grand Prix,HUL,16,26.1,9.0,7.0
+2023,Azerbaijan Grand Prix,LEC,3,39.4,1.0,2.0
+2023,Azerbaijan Grand Prix,MAG,13,25.5,10.0,3.0
+2023,Azerbaijan Grand Prix,NOR,7,33.11,8.0,1.0
+2023,Azerbaijan Grand Prix,OCO,9,46.84,8.0,1.0
+2023,Azerbaijan Grand Prix,PER,1,22.82,1.0,0.0
+2023,Azerbaijan Grand Prix,PIA,7,33.22,11.0,4.0
+2023,Azerbaijan Grand Prix,RUS,7,26.53,5.0,2.0
+2023,Azerbaijan Grand Prix,SAI,5,46.67,3.0,2.0
+2023,Azerbaijan Grand Prix,SAR,16,37.48,13.0,3.0
+2023,Azerbaijan Grand Prix,STR,7,41.37,6.0,1.0
+2023,Azerbaijan Grand Prix,TSU,10,33.97,10.0,0.0
+2023,Azerbaijan Grand Prix,VER,2,57.87,1.0,1.0
+2023,Azerbaijan Grand Prix,ZHO,16,62.25,8.0,8.0
+2023,Bahrain Grand Prix,ALB,10,30.7,9.0,1.0
+2023,Bahrain Grand Prix,ALO,3,46.56,3.0,0.0
+2023,Bahrain Grand Prix,BOT,8,23.42,6.0,2.0
+2023,Bahrain Grand Prix,DEV,14,22.87,11.0,3.0
+2023,Bahrain Grand Prix,GAS,9,45.01,9.0,0.0
+2023,Bahrain Grand Prix,HAM,4,29.42,5.0,1.0
+2023,Bahrain Grand Prix,HUL,15,31.02,14.0,1.0
+2023,Bahrain Grand Prix,LEC,3,44.34,2.0,1.0
+2023,Bahrain Grand Prix,MAG,13,19.59,9.0,4.0
+2023,Bahrain Grand Prix,NOR,17,43.91,10.0,7.0
+2023,Bahrain Grand Prix,OCO,18,48.55,9.0,9.0
+2023,Bahrain Grand Prix,PER,2,17.61,1.0,1.0
+2023,Bahrain Grand Prix,RUS,4,42.37,5.0,1.0
+2023,Bahrain Grand Prix,SAI,4,46.43,3.0,1.0
+2023,Bahrain Grand Prix,SAR,12,32.15,10.0,2.0
+2023,Bahrain Grand Prix,STR,6,32.88,3.0,3.0
+2023,Bahrain Grand Prix,TSU,12,17.44,11.0,1.0
+2023,Bahrain Grand Prix,VER,1,90.46,1.0,0.0
+2023,Bahrain Grand Prix,ZHO,16,21.01,9.0,7.0
+2023,Belgian Grand Prix,ALB,14,47.57,7.0,7.0
+2023,Belgian Grand Prix,ALO,5,49.75,4.0,1.0
+2023,Belgian Grand Prix,BOT,12,43.66,11.0,1.0
+2023,Belgian Grand Prix,GAS,11,44.93,6.0,5.0
+2023,Belgian Grand Prix,HAM,4,56.6,3.0,1.0
+2023,Belgian Grand Prix,HUL,16,55.32,8.0,8.0
+2023,Belgian Grand Prix,LEC,5,22.01,2.0,3.0
+2023,Belgian Grand Prix,MAG,15,39.3,8.0,7.0
+2023,Belgian Grand Prix,NOR,7,47.07,7.0,0.0
+2023,Belgian Grand Prix,OCO,8,44.73,6.0,2.0
+2023,Belgian Grand Prix,PER,2,32.39,1.0,1.0
+2023,Belgian Grand Prix,RIC,10,38.67,12.0,2.0
+2023,Belgian Grand Prix,RUS,6,58.96,6.0,0.0
+2023,Belgian Grand Prix,SAI,17,58.61,5.0,12.0
+2023,Belgian Grand Prix,SAR,17,48.17,10.0,7.0
+2023,Belgian Grand Prix,STR,9,41.68,5.0,4.0
+2023,Belgian Grand Prix,TSU,10,48.93,6.0,4.0
+2023,Belgian Grand Prix,VER,1,75.77,1.0,0.0
+2023,Belgian Grand Prix,ZHO,10,23.76,12.0,2.0
+2023,British Grand Prix,ALB,14,14.43,6.0,8.0
+2023,British Grand Prix,ALO,7,36.34,4.0,3.0
+2023,British Grand Prix,BOT,14,18.9,12.0,2.0
+2023,British Grand Prix,DEV,17,20.57,14.0,3.0
+2023,British Grand Prix,GAS,11,33.81,5.0,6.0
+2023,British Grand Prix,HAM,3,37.21,3.0,0.0
+2023,British Grand Prix,HUL,14,25.16,14.0,0.0
+2023,British Grand Prix,LEC,9,36.92,4.0,5.0
+2023,British Grand Prix,MAG,14,50.31,14.0,0.0
+2023,British Grand Prix,NOR,4,19.72,1.0,3.0
+2023,British Grand Prix,OCO,12,58.07,12.0,0.0
+2023,British Grand Prix,PER,14,14.02,6.0,8.0
+2023,British Grand Prix,PIA,4,20.16,3.0,1.0
+2023,British Grand Prix,RUS,5,40.31,4.0,1.0
+2023,British Grand Prix,SAI,7,20.21,5.0,2.0
+2023,British Grand Prix,SAR,14,15.95,12.0,2.0
+2023,British Grand Prix,STR,11,25.8,10.0,1.0
+2023,British Grand Prix,TSU,16,19.99,13.0,3.0
+2023,British Grand Prix,VER,1,89.88,1.0,0.0
+2023,British Grand Prix,ZHO,15,23.72,15.0,0.0
+2023,Canadian Grand Prix,ALB,16,15.15,6.0,10.0
+2023,Canadian Grand Prix,ALO,2,49.52,2.0,0.0
+2023,Canadian Grand Prix,BOT,11,45.54,8.0,3.0
+2023,Canadian Grand Prix,DEV,18,23.9,13.0,5.0
+2023,Canadian Grand Prix,GAS,13,24.22,13.0,0.0
+2023,Canadian Grand Prix,HAM,3,46.79,2.0,1.0
+2023,Canadian Grand Prix,HUL,15,48.35,6.0,9.0
+2023,Canadian Grand Prix,LEC,4,49.06,4.0,0.0
+2023,Canadian Grand Prix,MAG,12,14.59,7.0,5.0
+2023,Canadian Grand Prix,NOR,9,21.52,7.0,2.0
+2023,Canadian Grand Prix,OCO,8,28.15,5.0,3.0
+2023,Canadian Grand Prix,PER,6,24.63,6.0,0.0
+2023,Canadian Grand Prix,PIA,12,24.47,6.0,6.0
+2023,Canadian Grand Prix,RUS,8,43.57,4.0,4.0
+2023,Canadian Grand Prix,SAI,5,50.96,5.0,0.0
+2023,Canadian Grand Prix,SAR,18,50.73,18.0,0.0
+2023,Canadian Grand Prix,STR,10,34.96,10.0,0.0
+2023,Canadian Grand Prix,TSU,14,44.16,13.0,1.0
+2023,Canadian Grand Prix,VER,1,91.94,1.0,0.0
+2023,Canadian Grand Prix,ZHO,16,26.01,13.0,3.0
+2023,Dutch Grand Prix,ALB,6,28.13,3.0,3.0
+2023,Dutch Grand Prix,ALO,3,51.02,2.0,1.0
+2023,Dutch Grand Prix,BOT,17,30.95,9.0,8.0
+2023,Dutch Grand Prix,GAS,5,38.96,3.0,2.0
+2023,Dutch Grand Prix,HAM,7,50.96,5.0,2.0
+2023,Dutch Grand Prix,HUL,15,28.94,10.0,5.0
+2023,Dutch Grand Prix,LAW,18,28.01,11.0,7.0
+2023,Dutch Grand Prix,LEC,3,21.0,4.0,1.0
+2023,Dutch Grand Prix,MAG,16,25.1,7.0,9.0
+2023,Dutch Grand Prix,NOR,10,37.32,1.0,9.0
+2023,Dutch Grand Prix,OCO,5,27.21,6.0,1.0
+2023,Dutch Grand Prix,PER,2,30.55,1.0,1.0
+2023,Dutch Grand Prix,PIA,11,29.75,6.0,5.0
+2023,Dutch Grand Prix,RUS,9,55.34,3.0,6.0
+2023,Dutch Grand Prix,SAI,4,59.63,3.0,1.0
+2023,Dutch Grand Prix,SAR,20,43.08,13.0,7.0
+2023,Dutch Grand Prix,STR,14,37.86,7.0,7.0
+2023,Dutch Grand Prix,TSU,12,45.31,4.0,8.0
+2023,Dutch Grand Prix,VER,1,90.59,1.0,0.0
+2023,Dutch Grand Prix,ZHO,13,31.35,2.0,11.0
+2023,Hungarian Grand Prix,ALB,12,18.09,11.0,1.0
+2023,Hungarian Grand Prix,ALO,9,42.35,3.0,6.0
+2023,Hungarian Grand Prix,BOT,12,28.08,10.0,2.0
+2023,Hungarian Grand Prix,HAM,4,39.61,2.0,2.0
+2023,Hungarian Grand Prix,HUL,14,22.15,9.0,5.0
+2023,Hungarian Grand Prix,LEC,6,37.68,4.0,2.0
+2023,Hungarian Grand Prix,MAG,17,21.04,11.0,6.0
+2023,Hungarian Grand Prix,NOR,2,21.45,2.0,0.0
+2023,Hungarian Grand Prix,PER,3,23.17,2.0,1.0
+2023,Hungarian Grand Prix,PIA,5,28.54,2.0,3.0
+2023,Hungarian Grand Prix,RIC,13,23.05,9.0,4.0
+2023,Hungarian Grand Prix,RUS,7,44.23,5.0,2.0
+2023,Hungarian Grand Prix,SAI,8,41.81,4.0,4.0
+2023,Hungarian Grand Prix,SAR,15,32.62,12.0,3.0
+2023,Hungarian Grand Prix,STR,10,39.93,9.0,1.0
+2023,Hungarian Grand Prix,TSU,15,29.88,10.0,5.0
+2023,Hungarian Grand Prix,VER,1,93.72,1.0,0.0
+2023,Hungarian Grand Prix,ZHO,16,29.46,13.0,3.0
+2023,Italian Grand Prix,ALB,7,14.1,6.0,1.0
+2023,Italian Grand Prix,ALO,9,40.59,6.0,3.0
+2023,Italian Grand Prix,BOT,14,28.59,7.0,7.0
+2023,Italian Grand Prix,GAS,15,32.01,15.0,0.0
+2023,Italian Grand Prix,HAM,6,34.96,1.0,5.0
+2023,Italian Grand Prix,HUL,17,22.14,10.0,7.0
+2023,Italian Grand Prix,LAW,12,27.6,11.0,1.0
+2023,Italian Grand Prix,LEC,4,34.53,2.0,2.0
+2023,Italian Grand Prix,MAG,18,18.25,17.0,1.0
+2023,Italian Grand Prix,NOR,8,31.21,3.0,5.0
+2023,Italian Grand Prix,OCO,15,42.22,10.0,5.0
+2023,Italian Grand Prix,PER,2,14.76,1.0,1.0
+2023,Italian Grand Prix,PIA,11,29.35,1.0,10.0
+2023,Italian Grand Prix,RUS,4,34.81,4.0,0.0
+2023,Italian Grand Prix,SAI,3,40.51,1.0,2.0
+2023,Italian Grand Prix,SAR,14,14.31,10.0,4.0
+2023,Italian Grand Prix,STR,16,28.13,12.0,4.0
+2023,Italian Grand Prix,VER,1,89.7,1.0,0.0
+2023,Italian Grand Prix,ZHO,14,29.65,12.0,2.0
+2023,Japanese Grand Prix,ALB,16,50.22,11.0,5.0
+2023,Japanese Grand Prix,ALO,8,35.59,6.0,2.0
+2023,Japanese Grand Prix,GAS,9,38.69,7.0,2.0
+2023,Japanese Grand Prix,HAM,4,27.03,5.0,1.0
+2023,Japanese Grand Prix,HUL,14,42.47,10.0,4.0
+2023,Japanese Grand Prix,LAW,11,22.61,9.0,2.0
+2023,Japanese Grand Prix,LEC,4,44.0,3.0,1.0
+2023,Japanese Grand Prix,MAG,15,33.85,12.0,3.0
+2023,Japanese Grand Prix,NOR,2,21.93,1.0,1.0
+2023,Japanese Grand Prix,OCO,9,37.85,6.0,3.0
+2023,Japanese Grand Prix,PER,14,57.17,7.0,7.0
+2023,Japanese Grand Prix,PIA,3,27.42,2.0,1.0
+2023,Japanese Grand Prix,RUS,4,26.55,2.0,2.0
+2023,Japanese Grand Prix,SAI,4,40.13,1.0,3.0
+2023,Japanese Grand Prix,SAR,18,47.8,16.0,2.0
+2023,Japanese Grand Prix,STR,12,50.84,8.0,4.0
+2023,Japanese Grand Prix,TSU,12,25.11,10.0,2.0
+2023,Japanese Grand Prix,VER,1,93.16,1.0,0.0
+2023,Japanese Grand Prix,ZHO,13,23.3,11.0,2.0
+2023,Las Vegas Grand Prix,ALB,12,29.14,5.0,7.0
+2023,Las Vegas Grand Prix,ALO,9,48.41,5.0,4.0
+2023,Las Vegas Grand Prix,BOT,15,38.27,12.0,3.0
+2023,Las Vegas Grand Prix,GAS,11,27.34,3.0,8.0
+2023,Las Vegas Grand Prix,HAM,8,38.42,5.0,3.0
+2023,Las Vegas Grand Prix,HUL,15,38.51,9.0,6.0
+2023,Las Vegas Grand Prix,LEC,2,33.67,1.0,1.0
+2023,Las Vegas Grand Prix,MAG,13,22.16,7.0,6.0
+2023,Las Vegas Grand Prix,OCO,5,21.72,2.0,3.0
+2023,Las Vegas Grand Prix,PER,12,18.98,1.0,11.0
+2023,Las Vegas Grand Prix,PIA,10,26.29,3.0,7.0
+2023,Las Vegas Grand Prix,RIC,14,31.08,12.0,2.0
+2023,Las Vegas Grand Prix,RUS,4,56.75,3.0,1.0
+2023,Las Vegas Grand Prix,SAI,7,44.17,4.0,3.0
+2023,Las Vegas Grand Prix,SAR,16,26.06,6.0,10.0
+2023,Las Vegas Grand Prix,STR,6,31.83,2.0,4.0
+2023,Las Vegas Grand Prix,TSU,17,37.3,10.0,7.0
+2023,Las Vegas Grand Prix,VER,1,89.0,1.0,0.0
+2023,Las Vegas Grand Prix,ZHO,15,40.84,7.0,8.0
+2023,Mexico City Grand Prix,ALB,9,37.1,7.0,2.0
+2023,Mexico City Grand Prix,ALO,17,47.25,14.0,3.0
+2023,Mexico City Grand Prix,BOT,15,31.85,9.0,6.0
+2023,Mexico City Grand Prix,GAS,10,22.81,6.0,4.0
+2023,Mexico City Grand Prix,HAM,2,51.43,2.0,0.0
+2023,Mexico City Grand Prix,HUL,12,35.05,8.0,4.0
+2023,Mexico City Grand Prix,LEC,3,45.69,1.0,2.0
+2023,Mexico City Grand Prix,MAG,16,40.86,12.0,4.0
+2023,Mexico City Grand Prix,NOR,5,35.6,5.0,0.0
+2023,Mexico City Grand Prix,OCO,10,50.06,10.0,0.0
+2023,Mexico City Grand Prix,PIA,8,34.68,5.0,3.0
+2023,Mexico City Grand Prix,RIC,16,25.09,4.0,12.0
+2023,Mexico City Grand Prix,RUS,6,48.25,5.0,1.0
+2023,Mexico City Grand Prix,SAI,8,31.42,2.0,6.0
+2023,Mexico City Grand Prix,SAR,12,37.32,12.0,0.0
+2023,Mexico City Grand Prix,STR,14,33.79,11.0,3.0
+2023,Mexico City Grand Prix,TSU,16,24.92,8.0,8.0
+2023,Mexico City Grand Prix,VER,1,93.72,1.0,0.0
+2023,Mexico City Grand Prix,ZHO,16,36.23,10.0,6.0
+2023,Miami Grand Prix,ALB,14,23.28,8.0,6.0
+2023,Miami Grand Prix,ALO,3,50.87,2.0,1.0
+2023,Miami Grand Prix,BOT,11,18.03,8.0,3.0
+2023,Miami Grand Prix,DEV,18,16.52,17.0,1.0
+2023,Miami Grand Prix,GAS,8,27.16,4.0,4.0
+2023,Miami Grand Prix,HAM,6,42.35,6.0,0.0
+2023,Miami Grand Prix,HUL,14,16.06,5.0,9.0
+2023,Miami Grand Prix,LEC,7,38.56,6.0,1.0
+2023,Miami Grand Prix,MAG,10,16.72,7.0,3.0
+2023,Miami Grand Prix,NOR,19,13.61,15.0,4.0
+2023,Miami Grand Prix,OCO,9,32.61,3.0,6.0
+2023,Miami Grand Prix,PER,14,14.32,1.0,13.0
+2023,Miami Grand Prix,PIA,19,19.33,14.0,5.0
+2023,Miami Grand Prix,RUS,4,53.2,4.0,0.0
+2023,Miami Grand Prix,SAI,4,18.28,3.0,1.0
+2023,Miami Grand Prix,SAR,20,30.73,18.0,2.0
+2023,Miami Grand Prix,STR,12,24.88,7.0,5.0
+2023,Miami Grand Prix,TSU,11,24.51,8.0,3.0
+2023,Miami Grand Prix,VER,1,87.04,1.0,0.0
+2023,Miami Grand Prix,ZHO,11,16.22,10.0,1.0
+2023,Monaco Grand Prix,ALB,18,25.18,13.0,5.0
+2023,Monaco Grand Prix,ALO,2,52.1,2.0,0.0
+2023,Monaco Grand Prix,BOT,12,28.72,11.0,1.0
+2023,Monaco Grand Prix,DEV,12,43.61,12.0,0.0
+2023,Monaco Grand Prix,GAS,8,43.01,3.0,5.0
+2023,Monaco Grand Prix,HAM,7,31.79,4.0,3.0
+2023,Monaco Grand Prix,HUL,16,48.05,14.0,2.0
+2023,Monaco Grand Prix,LEC,7,51.66,3.0,4.0
+2023,Monaco Grand Prix,MAG,14,35.31,12.0,2.0
+2023,Monaco Grand Prix,NOR,10,63.64,9.0,1.0
+2023,Monaco Grand Prix,OCO,4,48.65,3.0,1.0
+2023,Monaco Grand Prix,PER,19,54.08,15.0,4.0
+2023,Monaco Grand Prix,PIA,10,59.29,9.0,1.0
+2023,Monaco Grand Prix,RUS,3,48.54,3.0,0.0
+2023,Monaco Grand Prix,SAI,5,61.77,3.0,2.0
+2023,Monaco Grand Prix,SAR,15,24.42,15.0,0.0
+2023,Monaco Grand Prix,STR,15,48.73,15.0,0.0
+2023,Monaco Grand Prix,TSU,9,41.92,9.0,0.0
+2023,Monaco Grand Prix,VER,1,88.22,1.0,0.0
+2023,Monaco Grand Prix,ZHO,17,51.36,13.0,4.0
+2023,Qatar Grand Prix,ALB,13,26.72,2.0,11.0
+2023,Qatar Grand Prix,ALO,3,21.59,3.0,0.0
+2023,Qatar Grand Prix,BOT,8,22.1,3.0,5.0
+2023,Qatar Grand Prix,GAS,10,25.2,6.0,4.0
+2023,Qatar Grand Prix,HUL,16,21.09,5.0,11.0
+2023,Qatar Grand Prix,LAW,17,23.28,10.0,7.0
+2023,Qatar Grand Prix,LEC,5,45.16,3.0,2.0
+2023,Qatar Grand Prix,MAG,14,21.35,8.0,6.0
+2023,Qatar Grand Prix,NOR,3,38.17,2.0,1.0
+2023,Qatar Grand Prix,OCO,7,24.2,5.0,2.0
+2023,Qatar Grand Prix,PER,11,31.57,3.0,8.0
+2023,Qatar Grand Prix,PIA,3,36.23,2.0,1.0
+2023,Qatar Grand Prix,RUS,4,69.14,2.0,2.0
+2023,Qatar Grand Prix,SAR,17,33.71,8.0,9.0
+2023,Qatar Grand Prix,STR,9,26.85,5.0,4.0
+2023,Qatar Grand Prix,TSU,15,24.08,8.0,7.0
+2023,Qatar Grand Prix,VER,1,88.37,1.0,0.0
+2023,Qatar Grand Prix,ZHO,12,39.5,4.0,8.0
+2023,Saudi Arabian Grand Prix,ALB,15,39.13,9.0,6.0
+2023,Saudi Arabian Grand Prix,ALO,9,25.66,1.0,8.0
+2023,Saudi Arabian Grand Prix,BOT,18,44.23,15.0,3.0
+2023,Saudi Arabian Grand Prix,DEV,14,35.62,11.0,3.0
+2023,Saudi Arabian Grand Prix,GAS,9,28.89,8.0,1.0
+2023,Saudi Arabian Grand Prix,HAM,5,43.66,5.0,0.0
+2023,Saudi Arabian Grand Prix,HUL,12,22.93,12.0,0.0
+2023,Saudi Arabian Grand Prix,LEC,7,46.64,5.0,2.0
+2023,Saudi Arabian Grand Prix,MAG,10,16.07,10.0,0.0
+2023,Saudi Arabian Grand Prix,NOR,9,12.63,15.0,6.0
+2023,Saudi Arabian Grand Prix,OCO,8,24.55,6.0,2.0
+2023,Saudi Arabian Grand Prix,PER,1,13.24,1.0,0.0
+2023,Saudi Arabian Grand Prix,PIA,15,34.78,15.0,0.0
+2023,Saudi Arabian Grand Prix,RUS,4,49.67,3.0,1.0
+2023,Saudi Arabian Grand Prix,SAI,6,37.5,4.0,2.0
+2023,Saudi Arabian Grand Prix,SAR,12,20.39,10.0,2.0
+2023,Saudi Arabian Grand Prix,STR,12,39.95,4.0,8.0
+2023,Saudi Arabian Grand Prix,TSU,11,25.62,6.0,5.0
+2023,Saudi Arabian Grand Prix,VER,1,83.51,2.0,1.0
+2023,Saudi Arabian Grand Prix,ZHO,14,19.38,10.0,4.0
+2023,Singapore Grand Prix,ALB,15,30.26,10.0,5.0
+2023,Singapore Grand Prix,ALO,16,42.27,6.0,10.0
+2023,Singapore Grand Prix,BOT,15,43.03,10.0,5.0
+2023,Singapore Grand Prix,GAS,6,42.74,6.0,0.0
+2023,Singapore Grand Prix,HAM,3,58.92,3.0,0.0
+2023,Singapore Grand Prix,HUL,12,16.23,9.0,3.0
+2023,Singapore Grand Prix,LAW,9,31.71,8.0,1.0
+2023,Singapore Grand Prix,LEC,1,19.43,2.0,1.0
+2023,Singapore Grand Prix,MAG,15,36.55,8.0,7.0
+2023,Singapore Grand Prix,NOR,7,23.67,2.0,5.0
+2023,Singapore Grand Prix,OCO,6,42.3,6.0,0.0
+2023,Singapore Grand Prix,PER,8,31.57,4.0,4.0
+2023,Singapore Grand Prix,PIA,7,38.78,7.0,0.0
+2023,Singapore Grand Prix,RUS,3,64.97,2.0,1.0
+2023,Singapore Grand Prix,SAI,1,40.3,1.0,0.0
+2023,Singapore Grand Prix,SAR,15,40.43,14.0,1.0
+2023,Singapore Grand Prix,VER,1,73.55,2.0,1.0
+2023,Singapore Grand Prix,ZHO,12,38.38,10.0,2.0
+2023,Spanish Grand Prix,ALB,16,25.39,10.0,6.0
+2023,Spanish Grand Prix,ALO,9,18.15,4.0,5.0
+2023,Spanish Grand Prix,BOT,19,26.9,15.0,4.0
+2023,Spanish Grand Prix,DEV,14,21.86,10.0,4.0
+2023,Spanish Grand Prix,GAS,11,20.82,6.0,5.0
+2023,Spanish Grand Prix,HAM,2,50.07,2.0,0.0
+2023,Spanish Grand Prix,HUL,17,34.74,8.0,9.0
+2023,Spanish Grand Prix,LEC,12,34.59,7.0,5.0
+2023,Spanish Grand Prix,MAG,17,40.81,12.0,5.0
+2023,Spanish Grand Prix,NOR,17,20.65,14.0,3.0
+2023,Spanish Grand Prix,OCO,8,30.33,5.0,3.0
+2023,Spanish Grand Prix,PER,4,15.91,2.0,2.0
+2023,Spanish Grand Prix,PIA,13,18.4,6.0,7.0
+2023,Spanish Grand Prix,RUS,3,52.87,2.0,1.0
+2023,Spanish Grand Prix,SAI,5,46.03,2.0,3.0
+2023,Spanish Grand Prix,SAR,16,14.29,12.0,4.0
+2023,Spanish Grand Prix,STR,6,30.74,3.0,3.0
+2023,Spanish Grand Prix,TSU,9,17.82,7.0,2.0
+2023,Spanish Grand Prix,VER,1,93.51,1.0,0.0
+2023,Spanish Grand Prix,ZHO,10,17.24,8.0,2.0
+2023,São Paulo Grand Prix,ALO,6,23.81,3.0,3.0
+2023,São Paulo Grand Prix,BOT,14,37.31,9.0,5.0
+2023,São Paulo Grand Prix,GAS,5,17.01,5.0,0.0
+2023,São Paulo Grand Prix,HAM,8,52.13,3.0,5.0
+2023,São Paulo Grand Prix,HUL,12,24.3,9.0,3.0
+2023,São Paulo Grand Prix,NOR,2,36.09,1.0,1.0
+2023,São Paulo Grand Prix,OCO,10,45.97,8.0,2.0
+2023,São Paulo Grand Prix,PER,3,12.03,3.0,0.0
+2023,São Paulo Grand Prix,PIA,14,26.88,13.0,1.0
+2023,São Paulo Grand Prix,RIC,13,29.59,13.0,0.0
+2023,São Paulo Grand Prix,RUS,9,58.42,5.0,4.0
+2023,São Paulo Grand Prix,SAI,4,37.9,3.0,1.0
+2023,São Paulo Grand Prix,SAR,11,21.73,11.0,0.0
+2023,São Paulo Grand Prix,STR,5,40.32,3.0,2.0
+2023,São Paulo Grand Prix,TSU,13,19.59,5.0,8.0
+2023,São Paulo Grand Prix,VER,1,93.04,1.0,0.0
+2023,São Paulo Grand Prix,ZHO,14,49.25,12.0,2.0
+2023,United States Grand Prix,ALB,11,23.67,11.0,0.0
+2023,United States Grand Prix,ALO,9,52.83,7.0,2.0
+2023,United States Grand Prix,BOT,15,24.04,12.0,3.0
+2023,United States Grand Prix,GAS,8,35.53,5.0,3.0
+2023,United States Grand Prix,HAM,2,45.38,1.0,1.0
+2023,United States Grand Prix,HUL,13,24.83,12.0,1.0
+2023,United States Grand Prix,LEC,6,42.69,1.0,5.0
+2023,United States Grand Prix,MAG,16,28.44,13.0,3.0
+2023,United States Grand Prix,NOR,3,37.64,1.0,2.0
+2023,United States Grand Prix,OCO,7,57.31,7.0,0.0
+2023,United States Grand Prix,PER,5,20.39,2.0,3.0
+2023,United States Grand Prix,PIA,6,53.59,6.0,0.0
+2023,United States Grand Prix,RIC,17,34.02,6.0,11.0
+2023,United States Grand Prix,RUS,7,51.23,3.0,4.0
+2023,United States Grand Prix,SAI,4,18.58,3.0,1.0
+2023,United States Grand Prix,SAR,12,23.15,12.0,0.0
+2023,United States Grand Prix,STR,9,42.18,8.0,1.0
+2023,United States Grand Prix,TSU,12,19.17,8.0,4.0
+2023,United States Grand Prix,VER,1,85.81,1.0,0.0
+2023,United States Grand Prix,ZHO,15,32.54,11.0,4.0

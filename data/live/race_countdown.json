@@ -1,0 +1,10 @@
+{
+  "race_name": "British Grand Prix",
+  "days": 2,
+  "hours": 6,
+  "minutes": 9,
+  "total_hours": 54,
+  "is_race_weekend": true,
+  "is_race_day": false,
+  "last_updated": "2025-07-04T08:51:00"
+}

@@ -1,0 +1,4 @@
+driver,odds,probability_pct,expected_value,bet_recommendation,potential_profit,ev_formatted,odds_formatted,probability_formatted,potential_profit_formatted
+Lando Norris,3.2,35.0,0.12,BET,22.0,0.120,3.20,35.0%,€22.00
+Oscar Piastri,6.0,20.0,0.2,BET,50.0,0.200,6.00,20.0%,€50.00
+Charles Leclerc,4.5,25.0,0.125,BET,35.0,0.125,4.50,25.0%,€35.00
